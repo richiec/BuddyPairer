@@ -1,4 +1,4 @@
-#BuddyPairer
+# BuddyPairer
 A simple python script that creates randomised pairings of elements from an input list. So for example the input 
 list:
 
